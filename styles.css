@@ -1,5 +1,0 @@
-@media (prefers-color-scheme: dark) {
-  .invert-on-dark {
-    filter: invert(1);
-  }
-}
