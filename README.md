@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anthony</h1>
-<h3 align="center">A developer from France & proudly geek</h3>
+<h3 align="center">A developer from France</h3>
 
 - 🌱 I’m currently learning **NextJS, Docker, AWS, GraphQL**
 
