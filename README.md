@@ -7,7 +7,7 @@
 
 - 👨‍💻 Things that I did [https://kitlenid.fr/], [https://www.aucoeurdelamarine.com/], [https://www.lamarquebleue.com/]
 
-- ⚡ Fun fact **I love cooking & Video Games**
+- ⚡ Fun fact **I love cooking & I can solve a rubick's cube under a minute**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
