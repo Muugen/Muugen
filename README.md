@@ -28,7 +28,7 @@ Hello, I'm Anthony 👋. I'm a software engineer from France<br><br>🔭 I’m c
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Muugen&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muugen&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 🎵 My Spotify Data Card
+### 🎵 My Spotify Data Card
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=kidojinyuu&hide_top_artists=1&limit=3">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=kidojinyuu&hide_top_artists=1&limit=3" alt="Data Card for Spotify">
 </a>
