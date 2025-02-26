@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Anthony 👋. I'm a software engineer from France<br><br>🔭 I’m currently working on: https://kitlenid.fr/<br><br>📫 How to reach me: anthony.huynh.pro@gmail.com<br><br>👨‍💻 Things that I did: https://www.aucoeurdelamarine.com/, https://www.lamarquebleue.com/<br><br>🌱 I’m currently learning GO, Docker, AWS<br><br>⚡ Fun fact I love cooking & I can solve a rubick's cube under a minute
+Hello, I'm Anthony 👋. I'm a web developer from France<br><br>🔭 I’m currently working on: https://kitlenid.fr/<br><br>📫 How to reach me: anthony.huynh.pro@gmail.com<br><br>👨‍💻 Things that I did: https://www.aucoeurdelamarine.com/, https://www.lamarquebleue.com/<br><br>🌱 I’m currently learning GO, Docker, AWS<br><br>⚡ Fun fact I love cooking & I can solve a rubick's cube under a minute
 
 
 ## 🌐 Socials:
