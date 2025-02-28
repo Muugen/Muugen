@@ -27,7 +27,7 @@ Hello, I'm Anthony 👋. I'm a web developer from France<br><br>🔭 I’m curre
 # 📊 GitHub Trophies & Stats:
 [![Anthony's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Muugen&theme=darkhub&title=MultiLanguage,Commits,Experience,PullRequest,Stars,Repositories,Issues)](https://github.com/ryo-ma/github-profile-trophy)</br>
 ![Anthony's GitHub Streak](http://github-readme-streak-stats-ruddy-two.vercel.app/?user=Muugen&theme=aura-dark)</br>
-![Anthony's GitHub techno used ](https://github-readme-stats-zeta-sand-15.vercel.app/api/top-langs/?username=muugen&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![Anthony's GitHub techno used](https://github-readme-stats-zeta-sand-15.vercel.app/api/top-langs/?username=muugen&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ### ✍️ Random Jokes
 ![](https://readme-jokes.vercel.app/api?theme=tokyonight)
