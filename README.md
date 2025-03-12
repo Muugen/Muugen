@@ -30,4 +30,4 @@ Hello, I'm Anthony 👋. I'm a web developer from France<br><br>🔭 I’m curre
 ![Anthony's GitHub techno used](https://github-readme-stats-zeta-sand-15.vercel.app/api/top-langs/?username=muugen&theme=onedark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ### ✍️ Random Jokes
-![](https://readme-jokes.vercel.app/api?theme=tokyonight)
+![](https://readme-jokes.vercel.app/api?theme=onedark)
