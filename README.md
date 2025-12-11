@@ -25,7 +25,7 @@ Hello, I'm Anthony 👋. I'm a web developer from France<br><br>🔭 I’m curre
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) 
 
 # 📊 GitHub Trophies & Stats:
-[![Anthony's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Muugen&theme=onedark&title=MultiLanguage,Commits,Experience,PullRequest,Stars,Repositories,Issues)](https://github.com/ryo-ma/github-profile-trophy)</br>
+[![Anthony's GitHub Trophies](https://github-profile-trophy-2ploddefs-muugens-projects.vercel.app/?username=Muugen&theme=onedark&title=MultiLanguage,Commits,Experience,PullRequest,Stars,Repositories,Issues)](https://github.com/ryo-ma/github-profile-trophy)</br>
 ![Anthony's GitHub Streak](http://github-readme-streak-stats-ruddy-two.vercel.app/?user=Muugen&theme=onedark)</br>
 ![Anthony's GitHub techno used](https://github-readme-stats-zeta-sand-15.vercel.app/api/top-langs/?username=muugen&theme=onedark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
